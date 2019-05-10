@@ -137,7 +137,6 @@
 	<dict>
 		<key>Hide</key>
 		<array>
-			<string>\EFI\BOOT\BOOTX64.EFI</string>
 			<string>Windows</string>
 		</array>
 		<key>Language</key>
@@ -160,7 +159,7 @@
 			<key>Legacy</key>
 			<string>First</string>
 			<key>Linux</key>
-			<false/>
+			<true/>
 			<key>Tool</key>
 			<true/>
 		</dict>
